@@ -10,7 +10,7 @@ st.markdown(
       color: white;
     }
     .stApp{
-        background: linear-gradient(135deg,rgb(19, 99, 102),rgb(114, 159, 196));
+        background: linear-gradient(135deg,rgb(45, 67, 196),rgb(114, 159, 196));
         padding: 20px;
         border-radius: 15px;
         box-shadow: opx 10 px 30px rgba(0, 0, 0, 0.3);
